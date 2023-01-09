@@ -28,7 +28,6 @@ class Chronometer {
 
   computeTwoDigitNumber(value) {
     // ... your code goes here
-    // ... your code goes here
     let rightDigit = value % 10
     let leftDigit = Math.floor(value / 10)
 
